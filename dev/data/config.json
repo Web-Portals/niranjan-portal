@@ -1,11 +1,11 @@
 {
   "site": {
     "lang": "en",
-    "title": "Portfolio template",
+    "title": "Niranjan Reddy",
     "titleDelim": " | ",
-    "description": "Free responsive one page portfolio template",
+    "description": "Responsive Portfolio Portal",
     "keywords": "html template, theme, freebie, opensource",
-    "url": "https://github.com/website-templates/portfolio_one-page-template"
+    "url": "https://github.com/niranjan-reddy/niranjan-personal-portal"
   },
   "modules": {
     "googleFonts": "https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,300,400,600,700,800%7COpen+Sans+Condensed:300&subset=latin,cyrillic",
@@ -19,5 +19,8 @@
   "links": {
     "twitterCardCreator": "===twittercard-creator-account===",
     "twitterCardAccount": "===twittercard-main-account==="
+  },
+  "otherKeyValues": {
+    "icon" :  "/images/icon.ico"
   }
 }
