@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\dev",
+    "\\dev\\pug",
+    "\\dev\\pug\\pages",
+    "\\dist",
+    "\\dist\\sass"
   ],
-  "SelectedNode": "\\package.json",
+  "SelectedNode": "\\gulpfile.js",
   "PreviewInSolutionExplorer": false
 }
